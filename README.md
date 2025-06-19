@@ -1,5 +1,5 @@
 <div align="center">
-<img src=".//assets/thecatwritesthecode.gif" alt="The cat writes the code" width="400px" height="500px">
+<img src=".//assets/thecatwritesthecode.gif" alt="The cat writes the code" height="500px">
 </div>
 <h1 align="center">Hi 👋, I'm NVORON</h1>
 <h3 align="center">Beginner Python Backend Developer</h3>
